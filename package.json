@@ -1,0 +1,17 @@
+{
+  "name": "db_bench",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Framework for Iterative DB Benchmarking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Karun Agarwal",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.11.3",
+    "validate.js": "^0.13.1"
+  }
+}
